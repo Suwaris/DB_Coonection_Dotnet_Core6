@@ -1,0 +1,12 @@
+G:\DotNetPractices\DBConnection\BusinessLogicServices\bin\Debug\net6.0\BusinessLogicServices.deps.json
+G:\DotNetPractices\DBConnection\BusinessLogicServices\bin\Debug\net6.0\BusinessLogicServices.dll
+G:\DotNetPractices\DBConnection\BusinessLogicServices\bin\Debug\net6.0\BusinessLogicServices.pdb
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.csproj.AssemblyReference.cache
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.AssemblyInfoInputs.cache
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.AssemblyInfo.cs
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.csproj.CoreCompileInputs.cache
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.dll
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\refint\BusinessLogicServices.dll
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\BusinessLogicServices.pdb
+G:\DotNetPractices\DBConnection\BusinessLogicServices\obj\Debug\net6.0\ref\BusinessLogicServices.dll

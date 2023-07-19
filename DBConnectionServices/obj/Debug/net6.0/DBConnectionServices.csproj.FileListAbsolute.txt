@@ -1,0 +1,14 @@
+G:\DotNetPractices\DBConnection\DBConnectionServices\bin\Debug\net6.0\DBConnectionServices.deps.json
+G:\DotNetPractices\DBConnection\DBConnectionServices\bin\Debug\net6.0\DBConnectionServices.runtimeconfig.json
+G:\DotNetPractices\DBConnection\DBConnectionServices\bin\Debug\net6.0\DBConnectionServices.dll
+G:\DotNetPractices\DBConnection\DBConnectionServices\bin\Debug\net6.0\DBConnectionServices.pdb
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.csproj.AssemblyReference.cache
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.AssemblyInfoInputs.cache
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.AssemblyInfo.cs
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.csproj.CoreCompileInputs.cache
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.dll
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\refint\DBConnectionServices.dll
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.pdb
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\DBConnectionServices.genruntimeconfig.cache
+G:\DotNetPractices\DBConnection\DBConnectionServices\obj\Debug\net6.0\ref\DBConnectionServices.dll
